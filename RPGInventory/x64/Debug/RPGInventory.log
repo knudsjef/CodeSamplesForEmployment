@@ -1,0 +1,10 @@
+﻿  Armor.cpp
+  Character.cpp
+  Inventory.cpp
+C:\Users\KnudsonJeffery\OneDrive - University of Wisconsin-Stout\Documents\RPGInventory-1\RPGInventory\Inventory.cpp(5,32): warning C4267:  'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Item.cpp
+  Tests.cpp
+  Weapon.cpp
+  Generating Code...
+C:\Users\KnudsonJeffery\OneDrive - University of Wisconsin-Stout\Documents\RPGInventory-1\RPGInventory\Inventory.cpp(43,53): warning C4267:  'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  RPGInventory.vcxproj -> C:\Users\KnudsonJeffery\OneDrive - University of Wisconsin-Stout\Documents\RPGInventory-1\RPGInventory\x64\Debug\RPGInventory.exe
